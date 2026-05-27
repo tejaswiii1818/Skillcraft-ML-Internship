@@ -103,11 +103,13 @@ Accuracy score
 Confusion matrix
 Classification report
 
-Installation
+Installation-
 Clone Repository
 git clone https://github.com/YOUR_USERNAME/SkillCraft-ML-Internship.git
+
 Navigate to Project Folder
 cd SkillCraft-ML-Internship
+
 Install Required Libraries
 pip install numpy pandas matplotlib scikit-learn opencv-python tensorflow pillow tqdm
 
