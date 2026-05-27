@@ -1,0 +1,26 @@
+__pycache__/\n*.h5\n.ipynb_checkpoints/\n.DS_Store
+
+# Ignore dataset folder (too large for GitHub)
+dataset/
+
+# Ignore Python bytecode
+__pycache__/
+*.pyc
+
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore model weights or temp outputs (if saved)
+model/*.h5
+model/*.pkl
+model/*.sav
+model/*.joblib
+
+# Ignore OS/system files
+.DS_Store
+Thumbs.db
+
+# Ignore VSCode or other IDE config folders (optional)
+.vscode/
+.idea/
+
